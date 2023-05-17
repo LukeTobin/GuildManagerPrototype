@@ -1,2 +1,2 @@
 # GuildManagerPrototype
-Prototype files for guild manager prototype.
+Scripts for guild manager prototype.
